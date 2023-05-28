@@ -1,2 +1,2 @@
-# d-wave
-d-wave
+# README
+Google Cirq

@@ -1,2 +1,2 @@
 # README
-Google Cirq
+Programacao de algoritimos quanticos com Google Cirq
